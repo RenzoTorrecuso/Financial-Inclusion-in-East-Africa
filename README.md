@@ -1,4 +1,5 @@
 Dear visitor,
+
 Thank you for passing by.
 
 Please refer to the notebook Financial_Inclusion_East_Africa.ipynb .
